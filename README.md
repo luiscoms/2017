@@ -8,3 +8,5 @@ Participantes:
 - Ellison Leão
 - Miriam Retka
 - Luis Fernando Gomes @LuisComS
+- João Rafael
+- Vanessa Romankiv
