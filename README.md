@@ -6,3 +6,4 @@ Repositório utilizado para o workshop de Git e Github durante o Hacktoberfest 2
 Participantes:
 
 - Ellison Leão
+- Miriam Retka
