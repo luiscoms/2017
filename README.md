@@ -8,3 +8,4 @@ Participantes:
 - Ellison Leão
 - Miriam Retka
 - João Rafael
+- Vanessa Romankiv
